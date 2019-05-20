@@ -32,7 +32,8 @@ In this challenge, we ask you to complete the analysis of what sorts of people w
 ---
 
 ## 2. City bike share demand
-You can view the competition [here](https://www.kaggle.com/c/bike-sharing-demand/overview)
+You can view the competition [here](https://www.kaggle.com/c/bike-sharing-demand/overview).
+You can view the code [here](https://github.com/a-pallotto/Machine-learning/blob/master/BikeShare/BikeSharePrediction.py)
 
 #### Competition Description:
 >Bike sharing systems are a means of renting bicycles where the process of obtaining membership, rental, and bike return is automated via a network of kiosk locations throughout a city. Using these systems, people are able rent a bike from a one location and return it to a different place on an as-needed basis. Currently, there are over 500 bike-sharing programs around the world.
