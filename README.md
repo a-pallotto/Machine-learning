@@ -4,7 +4,7 @@ A collection of several projects implementing various machine learning algorithm
 
 ## Projects:
  1. [Titanic: Machine learning from disaster](https://github.com/a-pallotto/Machine-learning#1-titanic-machine-learning-from-disaster)
- 2. [City bike share prediction](https://github.com/a-pallotto/Machine-learning#2-city-bike-share-prediction)
+ 2. [City bike share prediction](https://github.com/a-pallotto/Machine-learning#2-city-bike-share-demand)
 
 ## 1. Titanic: Machine learning from disaster
 
